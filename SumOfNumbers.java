@@ -1,3 +1,4 @@
+//Sum of Two Number
 import java.util.Scanner;  
 public class SumOfNumbers  
 {  
@@ -19,5 +20,4 @@ public static int sum(int a, int b)
 int sum = a + b;  
 return sum;  
 }  
-
 }  
